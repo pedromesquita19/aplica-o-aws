@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>Minha Aplicação Web na Nuvem AWS</h1>
-  <p>Feito por SEU NOME - SUA MATRÍCULA</p>
+  <p>Feito por pedro maia - </p>
 </body>
 </html>
