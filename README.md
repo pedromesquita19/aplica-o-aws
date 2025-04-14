@@ -1,1 +1,11 @@
-# aplica-o-aws
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Aplicação Web - AWS</title>
+</head>
+<body>
+  <h1>Minha Aplicação Web na Nuvem AWS</h1>
+  <p>Feito por SEU NOME - SUA MATRÍCULA</p>
+</body>
+</html>
